@@ -362,6 +362,17 @@
       "pdf": "pdfs/hearts-coloring-page.pdf",
       "thumbnail": "thumbnails/hearts-coloring-page.png",
       "tags": ["colouring", "hearts", "art", "fine motor"]
+    },
+    {
+      "id": "unicorn-coloring",
+      "title": "Unicorn Colouring Page",
+      "skill": "Art",
+      "topic": "Colouring",
+      "ageMin": 4,
+      "ageMax": 8,
+      "pdf": "pdfs/unicorn-coloring.pdf",
+      "thumbnail": "thumbnails/unicorn-coloring.png",
+      "tags": ["colouring", "unicorn", "art", "fine motor", "rainbow"]
     }
   ]
 }
