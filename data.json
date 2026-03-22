@@ -9,95 +9,11 @@
       "ageMax": 7,
       "pdf": "pdfs/make-10-activity-9.pdf",
       "thumbnail": "thumbnails/make-10-activity-9.png",
-      "tags": ["make 10", "addition", "ten frames"]
-    },
-    {
-      "id": "make-10-activity-11",
-      "title": "Make 10 — Starting from 11",
-      "skill": "Maths",
-      "topic": "Make 10",
-      "ageMin": 4,
-      "ageMax": 7,
-      "pdf": "pdfs/make-10-activity-11.pdf",
-      "thumbnail": "thumbnails/make-10-activity-11.png",
-      "tags": ["make 10", "addition", "ten frames"]
-    },
-    {
-      "id": "make-10-activity-12",
-      "title": "Make 10 — Starting from 12",
-      "skill": "Maths",
-      "topic": "Make 10",
-      "ageMin": 4,
-      "ageMax": 7,
-      "pdf": "pdfs/make-10-activity-12.pdf",
-      "thumbnail": "thumbnails/make-10-activity-12.png",
-      "tags": ["make 10", "addition", "ten frames"]
-    },
-    {
-      "id": "make-10-activity-13",
-      "title": "Make 10 — Starting from 13",
-      "skill": "Maths",
-      "topic": "Make 10",
-      "ageMin": 4,
-      "ageMax": 7,
-      "pdf": "pdfs/make-10-activity-13.pdf",
-      "thumbnail": "thumbnails/make-10-activity-13.png",
-      "tags": ["make 10", "addition", "ten frames"]
-    },
-    {
-      "id": "make-10-activity-14",
-      "title": "Make 10 — Starting from 14",
-      "skill": "Maths",
-      "topic": "Make 10",
-      "ageMin": 4,
-      "ageMax": 7,
-      "pdf": "pdfs/make-10-activity-14.pdf",
-      "thumbnail": "thumbnails/make-10-activity-14.png",
-      "tags": ["make 10", "addition", "ten frames"]
-    },
-    {
-      "id": "make-10-activity-15",
-      "title": "Make 10 — Starting from 15",
-      "skill": "Maths",
-      "topic": "Make 10",
-      "ageMin": 5,
-      "ageMax": 7,
-      "pdf": "pdfs/make-10-activity-15.pdf",
-      "thumbnail": "thumbnails/make-10-activity-15.png",
-      "tags": ["make 10", "addition", "ten frames"]
-    },
-    {
-      "id": "make-10-activity-16",
-      "title": "Make 10 — Starting from 16",
-      "skill": "Maths",
-      "topic": "Make 10",
-      "ageMin": 5,
-      "ageMax": 7,
-      "pdf": "pdfs/make-10-activity-16.pdf",
-      "thumbnail": "thumbnails/make-10-activity-16.png",
-      "tags": ["make 10", "addition", "ten frames"]
-    },
-    {
-      "id": "make-10-activity-17",
-      "title": "Make 10 — Starting from 17",
-      "skill": "Maths",
-      "topic": "Make 10",
-      "ageMin": 5,
-      "ageMax": 7,
-      "pdf": "pdfs/make-10-activity-17.pdf",
-      "thumbnail": "thumbnails/make-10-activity-17.png",
-      "tags": ["make 10", "addition", "ten frames"]
-    },
-    {
-      "id": "make-10-activity-18",
-      "title": "Make 10 — Starting from 18",
-      "skill": "Maths",
-      "topic": "Make 10",
-      "ageMin": 5,
-      "ageMax": 7,
-      "pdf": "pdfs/make-10-activity-18.pdf",
-      "thumbnail": "thumbnails/make-10-activity-18.png",
-      "tags": ["make 10", "addition", "ten frames"]
+      "tags": [
+        "make 10",
+        "addition",
+        "ten frames"
+      ]
     },
     {
       "id": "number-bonds-5",
@@ -108,7 +24,11 @@
       "ageMax": 5,
       "pdf": "pdfs/number-bonds-5.pdf",
       "thumbnail": "thumbnails/number-bonds-5.png",
-      "tags": ["number bonds", "addition", "decomposing"]
+      "tags": [
+        "number bonds",
+        "addition",
+        "decomposing"
+      ]
     },
     {
       "id": "number-bonds-6",
@@ -119,7 +39,11 @@
       "ageMax": 5,
       "pdf": "pdfs/number-bonds-6.pdf",
       "thumbnail": "thumbnails/number-bonds-6.png",
-      "tags": ["number bonds", "addition", "decomposing"]
+      "tags": [
+        "number bonds",
+        "addition",
+        "decomposing"
+      ]
     },
     {
       "id": "number-bonds-7",
@@ -130,7 +54,11 @@
       "ageMax": 6,
       "pdf": "pdfs/number-bonds-7.pdf",
       "thumbnail": "thumbnails/number-bonds-7.png",
-      "tags": ["number bonds", "addition", "decomposing"]
+      "tags": [
+        "number bonds",
+        "addition",
+        "decomposing"
+      ]
     },
     {
       "id": "number-bonds-8",
@@ -141,7 +69,11 @@
       "ageMax": 6,
       "pdf": "pdfs/number-bonds-8.pdf",
       "thumbnail": "thumbnails/number-bonds-8.png",
-      "tags": ["number bonds", "addition", "decomposing"]
+      "tags": [
+        "number bonds",
+        "addition",
+        "decomposing"
+      ]
     },
     {
       "id": "number-bonds-9",
@@ -152,7 +84,11 @@
       "ageMax": 6,
       "pdf": "pdfs/number-bonds-9.pdf",
       "thumbnail": "thumbnails/number-bonds-9.png",
-      "tags": ["number bonds", "addition", "decomposing"]
+      "tags": [
+        "number bonds",
+        "addition",
+        "decomposing"
+      ]
     },
     {
       "id": "number-bonds-10",
@@ -163,7 +99,11 @@
       "ageMax": 6,
       "pdf": "pdfs/number-bonds-10.pdf",
       "thumbnail": "thumbnails/number-bonds-10.png",
-      "tags": ["number bonds", "addition", "decomposing"]
+      "tags": [
+        "number bonds",
+        "addition",
+        "decomposing"
+      ]
     },
     {
       "id": "number-bonds-11",
@@ -174,7 +114,11 @@
       "ageMax": 6,
       "pdf": "pdfs/number-bonds-11.pdf",
       "thumbnail": "thumbnails/number-bonds-11.png",
-      "tags": ["number bonds", "addition", "decomposing"]
+      "tags": [
+        "number bonds",
+        "addition",
+        "decomposing"
+      ]
     },
     {
       "id": "number-bonds-12",
@@ -185,7 +129,11 @@
       "ageMax": 7,
       "pdf": "pdfs/number-bonds-12.pdf",
       "thumbnail": "thumbnails/number-bonds-12.png",
-      "tags": ["number bonds", "addition", "decomposing"]
+      "tags": [
+        "number bonds",
+        "addition",
+        "decomposing"
+      ]
     },
     {
       "id": "number-bonds-13",
@@ -196,7 +144,11 @@
       "ageMax": 7,
       "pdf": "pdfs/number-bonds-13.pdf",
       "thumbnail": "thumbnails/number-bonds-13.png",
-      "tags": ["number bonds", "addition", "decomposing"]
+      "tags": [
+        "number bonds",
+        "addition",
+        "decomposing"
+      ]
     },
     {
       "id": "number-bonds-14",
@@ -207,7 +159,11 @@
       "ageMax": 7,
       "pdf": "pdfs/number-bonds-14.pdf",
       "thumbnail": "thumbnails/number-bonds-14.png",
-      "tags": ["number bonds", "addition", "decomposing"]
+      "tags": [
+        "number bonds",
+        "addition",
+        "decomposing"
+      ]
     },
     {
       "id": "number-bonds-15",
@@ -218,7 +174,11 @@
       "ageMax": 7,
       "pdf": "pdfs/number-bonds-15.pdf",
       "thumbnail": "thumbnails/number-bonds-15.png",
-      "tags": ["number bonds", "addition", "decomposing"]
+      "tags": [
+        "number bonds",
+        "addition",
+        "decomposing"
+      ]
     },
     {
       "id": "number-bonds-16",
@@ -229,7 +189,11 @@
       "ageMax": 7,
       "pdf": "pdfs/number-bonds-16.pdf",
       "thumbnail": "thumbnails/number-bonds-16.png",
-      "tags": ["number bonds", "addition", "decomposing"]
+      "tags": [
+        "number bonds",
+        "addition",
+        "decomposing"
+      ]
     },
     {
       "id": "number-bonds-17",
@@ -240,7 +204,11 @@
       "ageMax": 7,
       "pdf": "pdfs/number-bonds-17.pdf",
       "thumbnail": "thumbnails/number-bonds-17.png",
-      "tags": ["number bonds", "addition", "decomposing"]
+      "tags": [
+        "number bonds",
+        "addition",
+        "decomposing"
+      ]
     },
     {
       "id": "number-bonds-18",
@@ -251,7 +219,11 @@
       "ageMax": 7,
       "pdf": "pdfs/number-bonds-18.pdf",
       "thumbnail": "thumbnails/number-bonds-18.png",
-      "tags": ["number bonds", "addition", "decomposing"]
+      "tags": [
+        "number bonds",
+        "addition",
+        "decomposing"
+      ]
     },
     {
       "id": "ten-frame-activities",
@@ -262,7 +234,11 @@
       "ageMax": 6,
       "pdf": "pdfs/ten-frame-activities.pdf",
       "thumbnail": "thumbnails/ten-frame-activities.png",
-      "tags": ["ten frames", "counting", "number sense"]
+      "tags": [
+        "ten frames",
+        "counting",
+        "number sense"
+      ]
     },
     {
       "id": "ten-frame-activities-9",
@@ -273,7 +249,11 @@
       "ageMax": 6,
       "pdf": "pdfs/ten-frame-activities-9.pdf",
       "thumbnail": "thumbnails/ten-frame-activities-9.png",
-      "tags": ["ten frames", "counting", "number sense"]
+      "tags": [
+        "ten frames",
+        "counting",
+        "number sense"
+      ]
     },
     {
       "id": "ten-frame-activities-11",
@@ -284,7 +264,11 @@
       "ageMax": 6,
       "pdf": "pdfs/ten-frame-activities-11.pdf",
       "thumbnail": "thumbnails/ten-frame-activities-11.png",
-      "tags": ["ten frames", "counting", "number sense"]
+      "tags": [
+        "ten frames",
+        "counting",
+        "number sense"
+      ]
     },
     {
       "id": "ten-frame-activities-12",
@@ -295,7 +279,11 @@
       "ageMax": 6,
       "pdf": "pdfs/ten-frame-activities-12.pdf",
       "thumbnail": "thumbnails/ten-frame-activities-12.png",
-      "tags": ["ten frames", "counting", "number sense"]
+      "tags": [
+        "ten frames",
+        "counting",
+        "number sense"
+      ]
     },
     {
       "id": "ten-frame-activities-13",
@@ -306,7 +294,11 @@
       "ageMax": 6,
       "pdf": "pdfs/ten-frame-activities-13.pdf",
       "thumbnail": "thumbnails/ten-frame-activities-13.png",
-      "tags": ["ten frames", "counting", "number sense"]
+      "tags": [
+        "ten frames",
+        "counting",
+        "number sense"
+      ]
     },
     {
       "id": "ten-frame-activities-14",
@@ -317,7 +309,11 @@
       "ageMax": 6,
       "pdf": "pdfs/ten-frame-activities-14.pdf",
       "thumbnail": "thumbnails/ten-frame-activities-14.png",
-      "tags": ["ten frames", "counting", "number sense"]
+      "tags": [
+        "ten frames",
+        "counting",
+        "number sense"
+      ]
     },
     {
       "id": "ten-frame-activities-15",
@@ -328,40 +324,11 @@
       "ageMax": 6,
       "pdf": "pdfs/ten-frame-activities-15.pdf",
       "thumbnail": "thumbnails/ten-frame-activities-15.png",
-      "tags": ["ten frames", "counting", "number sense"]
-    },
-    {
-      "id": "part-whole-model-activity-1",
-      "title": "Part-Whole Model — Activity 1",
-      "skill": "Maths",
-      "topic": "Part-Whole Model",
-      "ageMin": 5,
-      "ageMax": 7,
-      "pdf": "pdfs/part-whole-model-activity-1.pdf",
-      "thumbnail": "thumbnails/part-whole-model-activity-1.png",
-      "tags": ["part-whole", "addition", "number bonds", "decomposing"]
-    },
-    {
-      "id": "part-whole-model-activity-2",
-      "title": "Part-Whole Model — Activity 2",
-      "skill": "Maths",
-      "topic": "Part-Whole Model",
-      "ageMin": 5,
-      "ageMax": 7,
-      "pdf": "pdfs/part-whole-model-activity-2.pdf",
-      "thumbnail": "thumbnails/part-whole-model-activity-2.png",
-      "tags": ["part-whole", "addition", "number bonds", "decomposing"]
-    },
-    {
-      "id": "place-value-tens-ones",
-      "title": "Place Value — Tens and Ones",
-      "skill": "Maths",
-      "topic": "Place Value",
-      "ageMin": 5,
-      "ageMax": 7,
-      "pdf": "pdfs/place-value-tens-ones.pdf",
-      "thumbnail": "thumbnails/place-value-tens-ones.png",
-      "tags": ["place value", "tens", "ones", "two-digit numbers"]
+      "tags": [
+        "ten frames",
+        "counting",
+        "number sense"
+      ]
     },
     {
       "id": "adding-with-pictures",
@@ -372,7 +339,12 @@
       "ageMax": 6,
       "pdf": "pdfs/adding-with-pictures.pdf",
       "thumbnail": "thumbnails/adding-with-pictures.png",
-      "tags": ["addition", "pictures", "counting on", "number sense"]
+      "tags": [
+        "addition",
+        "pictures",
+        "counting on",
+        "number sense"
+      ]
     },
     {
       "id": "addition-up-to-20",
@@ -383,7 +355,12 @@
       "ageMax": 7,
       "pdf": "pdfs/addition-up-to-20.pdf",
       "thumbnail": "thumbnails/addition-up-to-20.png",
-      "tags": ["addition", "up to 20", "number bonds", "mental maths"]
+      "tags": [
+        "addition",
+        "up to 20",
+        "number bonds",
+        "mental maths"
+      ]
     },
     {
       "id": "subtraction-with-pictures",
@@ -394,7 +371,12 @@
       "ageMax": 6,
       "pdf": "pdfs/subtraction-with-pictures.pdf",
       "thumbnail": "thumbnails/subtraction-with-pictures.png",
-      "tags": ["subtraction", "pictures", "taking away", "number sense"]
+      "tags": [
+        "subtraction",
+        "pictures",
+        "taking away",
+        "number sense"
+      ]
     },
     {
       "id": "counting-11-to-20",
@@ -405,7 +387,12 @@
       "ageMax": 6,
       "pdf": "pdfs/counting-11-to-20.pdf",
       "thumbnail": "thumbnails/counting-11-to-20.png",
-      "tags": ["counting", "numbers to 20", "teen numbers", "number sense"]
+      "tags": [
+        "counting",
+        "numbers to 20",
+        "teen numbers",
+        "number sense"
+      ]
     },
     {
       "id": "more-less-same",
@@ -416,7 +403,13 @@
       "ageMax": 6,
       "pdf": "pdfs/more-less-same.pdf",
       "thumbnail": "thumbnails/more-less-same.png",
-      "tags": ["comparing", "more", "less", "equal", "number sense"]
+      "tags": [
+        "comparing",
+        "more",
+        "less",
+        "equal",
+        "number sense"
+      ]
     },
     {
       "id": "tracing-numbers-1-5",
@@ -427,7 +420,13 @@
       "ageMax": 6,
       "pdf": "pdfs/tracing-numbers-1-5.pdf",
       "thumbnail": "thumbnails/tracing-numbers-1-5.png",
-      "tags": ["numbers", "tracing", "handwriting", "numeral", "spelling"]
+      "tags": [
+        "numbers",
+        "tracing",
+        "handwriting",
+        "numeral",
+        "spelling"
+      ]
     },
     {
       "id": "tracing-numbers-6-10",
@@ -438,7 +437,13 @@
       "ageMax": 6,
       "pdf": "pdfs/tracing-numbers-6-10.pdf",
       "thumbnail": "thumbnails/tracing-numbers-6-10.png",
-      "tags": ["numbers", "tracing", "handwriting", "numeral", "spelling"]
+      "tags": [
+        "numbers",
+        "tracing",
+        "handwriting",
+        "numeral",
+        "spelling"
+      ]
     },
     {
       "id": "matching-numbers-words",
@@ -449,7 +454,13 @@
       "ageMax": 7,
       "pdf": "pdfs/matching-numbers-words.pdf",
       "thumbnail": "thumbnails/matching-numbers-words.png",
-      "tags": ["numbers", "matching", "spelling", "number words", "activity"]
+      "tags": [
+        "numbers",
+        "matching",
+        "spelling",
+        "number words",
+        "activity"
+      ]
     },
     {
       "id": "tracing-ch",
@@ -460,7 +471,13 @@
       "ageMax": 6,
       "pdf": "pdfs/tracing-ch.pdf",
       "thumbnail": "thumbnails/tracing-ch.png",
-      "tags": ["digraphs", "ch", "tracing", "phonics", "word tracing"]
+      "tags": [
+        "digraphs",
+        "ch",
+        "tracing",
+        "phonics",
+        "word tracing"
+      ]
     },
     {
       "id": "tracing-sh",
@@ -471,7 +488,13 @@
       "ageMax": 6,
       "pdf": "pdfs/tracing-sh.pdf",
       "thumbnail": "thumbnails/tracing-sh.png",
-      "tags": ["digraphs", "sh", "tracing", "phonics", "word tracing"]
+      "tags": [
+        "digraphs",
+        "sh",
+        "tracing",
+        "phonics",
+        "word tracing"
+      ]
     },
     {
       "id": "tracing-th",
@@ -482,7 +505,13 @@
       "ageMax": 6,
       "pdf": "pdfs/tracing-th.pdf",
       "thumbnail": "thumbnails/tracing-th.png",
-      "tags": ["digraphs", "th", "tracing", "phonics", "word tracing"]
+      "tags": [
+        "digraphs",
+        "th",
+        "tracing",
+        "phonics",
+        "word tracing"
+      ]
     },
     {
       "id": "tracing-wh",
@@ -493,7 +522,13 @@
       "ageMax": 6,
       "pdf": "pdfs/tracing-wh.pdf",
       "thumbnail": "thumbnails/tracing-wh.png",
-      "tags": ["digraphs", "wh", "tracing", "phonics", "word tracing"]
+      "tags": [
+        "digraphs",
+        "wh",
+        "tracing",
+        "phonics",
+        "word tracing"
+      ]
     },
     {
       "id": "tracing-ck",
@@ -504,7 +539,13 @@
       "ageMax": 6,
       "pdf": "pdfs/tracing-ck.pdf",
       "thumbnail": "thumbnails/tracing-ck.png",
-      "tags": ["digraphs", "ck", "tracing", "phonics", "word tracing"]
+      "tags": [
+        "digraphs",
+        "ck",
+        "tracing",
+        "phonics",
+        "word tracing"
+      ]
     },
     {
       "id": "tracing-ng",
@@ -515,7 +556,13 @@
       "ageMax": 6,
       "pdf": "pdfs/tracing-ng.pdf",
       "thumbnail": "thumbnails/tracing-ng.png",
-      "tags": ["digraphs", "ng", "tracing", "phonics", "word tracing"]
+      "tags": [
+        "digraphs",
+        "ng",
+        "tracing",
+        "phonics",
+        "word tracing"
+      ]
     },
     {
       "id": "tracing-nk",
@@ -526,7 +573,13 @@
       "ageMax": 6,
       "pdf": "pdfs/tracing-nk.pdf",
       "thumbnail": "thumbnails/tracing-nk.png",
-      "tags": ["digraphs", "nk", "tracing", "phonics", "word tracing"]
+      "tags": [
+        "digraphs",
+        "nk",
+        "tracing",
+        "phonics",
+        "word tracing"
+      ]
     },
     {
       "id": "tracing-ph",
@@ -537,7 +590,13 @@
       "ageMax": 6,
       "pdf": "pdfs/tracing-ph.pdf",
       "thumbnail": "thumbnails/tracing-ph.png",
-      "tags": ["digraphs", "ph", "tracing", "phonics", "word tracing"]
+      "tags": [
+        "digraphs",
+        "ph",
+        "tracing",
+        "phonics",
+        "word tracing"
+      ]
     },
     {
       "id": "tracing-qu",
@@ -548,7 +607,13 @@
       "ageMax": 6,
       "pdf": "pdfs/tracing-qu.pdf",
       "thumbnail": "thumbnails/tracing-qu.png",
-      "tags": ["digraphs", "qu", "tracing", "phonics", "word tracing"]
+      "tags": [
+        "digraphs",
+        "qu",
+        "tracing",
+        "phonics",
+        "word tracing"
+      ]
     },
     {
       "id": "tracing-cvc-words",
@@ -559,7 +624,13 @@
       "ageMax": 6,
       "pdf": "pdfs/tracing-cvc-words.pdf",
       "thumbnail": "thumbnails/tracing-cvc-words.png",
-      "tags": ["CVC", "tracing", "phonics", "sounding out", "word tracing"]
+      "tags": [
+        "CVC",
+        "tracing",
+        "phonics",
+        "sounding out",
+        "word tracing"
+      ]
     },
     {
       "id": "word-family-at",
@@ -570,7 +641,13 @@
       "ageMax": 6,
       "pdf": "pdfs/word-family-at.pdf",
       "thumbnail": "thumbnails/word-family-at.png",
-      "tags": ["word families", "-at", "rhyming", "phonics", "CVC"]
+      "tags": [
+        "word families",
+        "-at",
+        "rhyming",
+        "phonics",
+        "CVC"
+      ]
     },
     {
       "id": "word-family-ig",
@@ -581,7 +658,13 @@
       "ageMax": 6,
       "pdf": "pdfs/word-family-ig.pdf",
       "thumbnail": "thumbnails/word-family-ig.png",
-      "tags": ["word families", "-ig", "rhyming", "phonics", "CVC"]
+      "tags": [
+        "word families",
+        "-ig",
+        "rhyming",
+        "phonics",
+        "CVC"
+      ]
     },
     {
       "id": "word-family-og",
@@ -592,7 +675,13 @@
       "ageMax": 6,
       "pdf": "pdfs/word-family-og.pdf",
       "thumbnail": "thumbnails/word-family-og.png",
-      "tags": ["word families", "-og", "rhyming", "phonics", "CVC"]
+      "tags": [
+        "word families",
+        "-og",
+        "rhyming",
+        "phonics",
+        "CVC"
+      ]
     },
     {
       "id": "beginning-sounds",
@@ -603,7 +692,13 @@
       "ageMax": 6,
       "pdf": "pdfs/beginning-sounds.pdf",
       "thumbnail": "thumbnails/beginning-sounds.png",
-      "tags": ["beginning sounds", "matching", "phonics", "letters", "initial sounds"]
+      "tags": [
+        "beginning sounds",
+        "matching",
+        "phonics",
+        "letters",
+        "initial sounds"
+      ]
     },
     {
       "id": "hearts-coloring-page",
@@ -614,7 +709,12 @@
       "ageMax": 8,
       "pdf": "pdfs/hearts-coloring-page.pdf",
       "thumbnail": "thumbnails/hearts-coloring-page.png",
-      "tags": ["colouring", "hearts", "art", "fine motor"]
+      "tags": [
+        "colouring",
+        "hearts",
+        "art",
+        "fine motor"
+      ]
     },
     {
       "id": "coloring-butterfly",
@@ -625,7 +725,12 @@
       "ageMax": 8,
       "pdf": "pdfs/coloring-butterfly.pdf",
       "thumbnail": "thumbnails/coloring-butterfly.png",
-      "tags": ["colouring", "butterfly", "art", "fine motor"]
+      "tags": [
+        "colouring",
+        "butterfly",
+        "art",
+        "fine motor"
+      ]
     },
     {
       "id": "coloring-colour-by-number",
@@ -636,7 +741,13 @@
       "ageMax": 7,
       "pdf": "pdfs/coloring-colour-by-number.pdf",
       "thumbnail": "thumbnails/coloring-colour-by-number.png",
-      "tags": ["colour by number", "rocket", "numbers", "art", "colouring"]
+      "tags": [
+        "colour by number",
+        "rocket",
+        "numbers",
+        "art",
+        "colouring"
+      ]
     },
     {
       "id": "coloring-pattern",
@@ -647,7 +758,13 @@
       "ageMax": 7,
       "pdf": "pdfs/coloring-pattern.pdf",
       "thumbnail": "thumbnails/coloring-pattern.png",
-      "tags": ["patterns", "shapes", "art", "colouring", "sequencing"]
+      "tags": [
+        "patterns",
+        "shapes",
+        "art",
+        "colouring",
+        "sequencing"
+      ]
     },
     {
       "id": "coloring-unicorn",
@@ -658,7 +775,12 @@
       "ageMax": 8,
       "pdf": "pdfs/coloring-unicorn.pdf",
       "thumbnail": "thumbnails/coloring-unicorn.png",
-      "tags": ["colouring", "unicorn", "art", "fine motor"]
+      "tags": [
+        "colouring",
+        "unicorn",
+        "art",
+        "fine motor"
+      ]
     },
     {
       "id": "coloring-jungle-animals",
@@ -669,7 +791,15 @@
       "ageMax": 8,
       "pdf": "pdfs/coloring-jungle-animals.pdf",
       "thumbnail": "thumbnails/coloring-jungle-animals.png",
-      "tags": ["colouring", "jungle", "animals", "elephant", "giraffe", "art", "fine motor"]
+      "tags": [
+        "colouring",
+        "jungle",
+        "animals",
+        "elephant",
+        "giraffe",
+        "art",
+        "fine motor"
+      ]
     },
     {
       "id": "coloring-abcd",
@@ -680,7 +810,14 @@
       "ageMax": 6,
       "pdf": "pdfs/coloring-abcd.pdf",
       "thumbnail": "thumbnails/coloring-abcd.png",
-      "tags": ["colouring", "alphabet", "ABCD", "letters", "art", "fine motor"]
+      "tags": [
+        "colouring",
+        "alphabet",
+        "ABCD",
+        "letters",
+        "art",
+        "fine motor"
+      ]
     }
   ]
 }
