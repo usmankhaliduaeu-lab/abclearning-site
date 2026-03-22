@@ -818,6 +818,168 @@
         "art",
         "fine motor"
       ]
+    },
+    {
+      "id": "tracing-ch-dotted",
+      "title": "Dotted Tracing — CH Words",
+      "skill": "Phonics",
+      "topic": "Digraphs (Dotted)",
+      "ageMin": 4,
+      "ageMax": 6,
+      "pdf": "pdfs/tracing-ch-dotted.pdf",
+      "thumbnail": "thumbnails/tracing-ch-dotted.png",
+      "tags": [
+        "digraphs",
+        "ch",
+        "tracing",
+        "phonics",
+        "dotted",
+        "word tracing"
+      ]
+    },
+    {
+      "id": "tracing-sh-dotted",
+      "title": "Dotted Tracing — SH Words",
+      "skill": "Phonics",
+      "topic": "Digraphs (Dotted)",
+      "ageMin": 4,
+      "ageMax": 6,
+      "pdf": "pdfs/tracing-sh-dotted.pdf",
+      "thumbnail": "thumbnails/tracing-sh-dotted.png",
+      "tags": [
+        "digraphs",
+        "sh",
+        "tracing",
+        "phonics",
+        "dotted",
+        "word tracing"
+      ]
+    },
+    {
+      "id": "tracing-th-dotted",
+      "title": "Dotted Tracing — TH Words",
+      "skill": "Phonics",
+      "topic": "Digraphs (Dotted)",
+      "ageMin": 4,
+      "ageMax": 6,
+      "pdf": "pdfs/tracing-th-dotted.pdf",
+      "thumbnail": "thumbnails/tracing-th-dotted.png",
+      "tags": [
+        "digraphs",
+        "th",
+        "tracing",
+        "phonics",
+        "dotted",
+        "word tracing"
+      ]
+    },
+    {
+      "id": "tracing-wh-dotted",
+      "title": "Dotted Tracing — WH Words",
+      "skill": "Phonics",
+      "topic": "Digraphs (Dotted)",
+      "ageMin": 4,
+      "ageMax": 6,
+      "pdf": "pdfs/tracing-wh-dotted.pdf",
+      "thumbnail": "thumbnails/tracing-wh-dotted.png",
+      "tags": [
+        "digraphs",
+        "wh",
+        "tracing",
+        "phonics",
+        "dotted",
+        "word tracing"
+      ]
+    },
+    {
+      "id": "tracing-ng-dotted",
+      "title": "Dotted Tracing — NG Words",
+      "skill": "Phonics",
+      "topic": "Digraphs (Dotted)",
+      "ageMin": 4,
+      "ageMax": 6,
+      "pdf": "pdfs/tracing-ng-dotted.pdf",
+      "thumbnail": "thumbnails/tracing-ng-dotted.png",
+      "tags": [
+        "digraphs",
+        "ng",
+        "tracing",
+        "phonics",
+        "dotted",
+        "word tracing"
+      ]
+    },
+    {
+      "id": "tracing-ph-dotted",
+      "title": "Dotted Tracing — PH Words",
+      "skill": "Phonics",
+      "topic": "Digraphs (Dotted)",
+      "ageMin": 4,
+      "ageMax": 6,
+      "pdf": "pdfs/tracing-ph-dotted.pdf",
+      "thumbnail": "thumbnails/tracing-ph-dotted.png",
+      "tags": [
+        "digraphs",
+        "ph",
+        "tracing",
+        "phonics",
+        "dotted",
+        "word tracing"
+      ]
+    },
+    {
+      "id": "tracing-ck-dotted",
+      "title": "Dotted Tracing — CK Words",
+      "skill": "Phonics",
+      "topic": "Digraphs (Dotted)",
+      "ageMin": 4,
+      "ageMax": 6,
+      "pdf": "pdfs/tracing-ck-dotted.pdf",
+      "thumbnail": "thumbnails/tracing-ck-dotted.png",
+      "tags": [
+        "digraphs",
+        "ck",
+        "tracing",
+        "phonics",
+        "dotted",
+        "word tracing"
+      ]
+    },
+    {
+      "id": "tracing-nk-dotted",
+      "title": "Dotted Tracing — NK Words",
+      "skill": "Phonics",
+      "topic": "Digraphs (Dotted)",
+      "ageMin": 4,
+      "ageMax": 6,
+      "pdf": "pdfs/tracing-nk-dotted.pdf",
+      "thumbnail": "thumbnails/tracing-nk-dotted.png",
+      "tags": [
+        "digraphs",
+        "nk",
+        "tracing",
+        "phonics",
+        "dotted",
+        "word tracing"
+      ]
+    },
+    {
+      "id": "tracing-qu-dotted",
+      "title": "Dotted Tracing — QU Words",
+      "skill": "Phonics",
+      "topic": "Digraphs (Dotted)",
+      "ageMin": 4,
+      "ageMax": 6,
+      "pdf": "pdfs/tracing-qu-dotted.pdf",
+      "thumbnail": "thumbnails/tracing-qu-dotted.png",
+      "tags": [
+        "digraphs",
+        "qu",
+        "tracing",
+        "phonics",
+        "dotted",
+        "word tracing"
+      ]
     }
   ]
 }
