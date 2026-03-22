@@ -362,6 +362,39 @@
       "pdf": "pdfs/hearts-coloring-page.pdf",
       "thumbnail": "thumbnails/hearts-coloring-page.png",
       "tags": ["colouring", "hearts", "art", "fine motor"]
+    },
+    {
+      "id": "coloring-butterfly",
+      "title": "Colour the Butterfly!",
+      "skill": "Art",
+      "topic": "Colouring",
+      "ageMin": 4,
+      "ageMax": 8,
+      "pdf": "pdfs/coloring-butterfly.pdf",
+      "thumbnail": "thumbnails/coloring-butterfly.png",
+      "tags": ["colouring", "butterfly", "art", "fine motor"]
+    },
+    {
+      "id": "coloring-colour-by-number",
+      "title": "Colour by Number — Rocket",
+      "skill": "Art",
+      "topic": "Colour by Number",
+      "ageMin": 4,
+      "ageMax": 7,
+      "pdf": "pdfs/coloring-colour-by-number.pdf",
+      "thumbnail": "thumbnails/coloring-colour-by-number.png",
+      "tags": ["colour by number", "rocket", "numbers", "art", "colouring"]
+    },
+    {
+      "id": "coloring-pattern",
+      "title": "Colour the Pattern!",
+      "skill": "Art",
+      "topic": "Patterns",
+      "ageMin": 4,
+      "ageMax": 7,
+      "pdf": "pdfs/coloring-pattern.pdf",
+      "thumbnail": "thumbnails/coloring-pattern.png",
+      "tags": ["patterns", "shapes", "art", "colouring", "sequencing"]
     }
   ]
 }
