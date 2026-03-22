@@ -1,6 +1,37 @@
 [build]
   publish = "."
 
+# Pretty URLs: /suggest -> suggest.html, etc.
+[[redirects]]
+  from = "/suggest"
+  to = "/suggest.html"
+  status = 200
+
+[[redirects]]
+  from = "/about"
+  to = "/about.html"
+  status = 200
+
+[[redirects]]
+  from = "/worksheets"
+  to = "/worksheets.html"
+  status = 200
+
+[[redirects]]
+  from = "/maths"
+  to = "/maths.html"
+  status = 200
+
+[[redirects]]
+  from = "/phonics"
+  to = "/phonics.html"
+  status = 200
+
+[[redirects]]
+  from = "/art"
+  to = "/art.html"
+  status = 200
+
 # Open PDFs inline in the browser (enables print dialog)
 [[headers]]
   for = "/pdfs/*"
