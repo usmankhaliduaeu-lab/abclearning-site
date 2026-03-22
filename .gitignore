@@ -1,0 +1,18 @@
+# Python / tools
+__pycache__/
+*.pyc
+tools/__pycache__/
+
+# LaTeX artefacts (not needed in site repo)
+*.aux
+*.log
+*.out
+*.toc
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.swp

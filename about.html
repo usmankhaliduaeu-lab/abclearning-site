@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About — ABCLearning</title>
+  <meta name="description" content="ABCLearning started as a fun experiment generating worksheets for one child. Read the story behind the site.">
+  <link rel="canonical" href="https://abclearning.net/about.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div class="ad-zone ad-banner" aria-hidden="true"></div>
+
+<nav id="site-nav">
+  <div class="nav-inner">
+    <a href="index.html" class="nav-brand">
+      <span class="brand-abc">ABC</span><span class="brand-learning">Learning</span>
+    </a>
+    <div class="nav-links">
+      <a href="index.html">Home</a>
+      <a href="worksheets.html">All Worksheets</a>
+      <a href="maths.html">Maths</a>
+      <a href="phonics.html">Phonics</a>
+      <a href="art.html">Art</a>
+      <a href="about.html" class="active">About</a>
+      <a href="suggest.html" class="nav-cta">Suggest Activity</a>
+    </div>
+    <button class="nav-toggle" aria-label="Open menu">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</nav>
+
+<div class="about-layout">
+
+  <p class="section-label">Our story</p>
+  <h1>A Saturday experiment that got out of hand</h1>
+  <p class="lead">
+    ABCLearning began not as a website, but as a folder of PDF files on a laptop — made for one child, on one afternoon, with no plan to share them with anyone.
+  </p>
+
+  <h2>How it started</h2>
+  <p>
+    My daughter was working through early maths and phonics, and the worksheets available online were either too basic, too expensive, or buried behind login walls. So I decided to make my own — using <strong>Claude Code</strong>, an AI coding assistant, to generate them from scratch in LaTeX.
+  </p>
+  <p>
+    The first sheet took a while to get right. The second was faster. By the tenth, I had a system. Number bonds, ten frames, make-10 activities, digraph tracing sheets — each one tested at the kitchen table by a very honest five-year-old who was not shy about telling me when something was confusing.
+  </p>
+
+  <div class="about-callout">
+    Every worksheet on this site has been printed, used, and approved by at least one real child. That's the only quality check that actually matters.
+  </div>
+
+  <h2>Why share them?</h2>
+  <p>
+    When friends and colleagues started asking for copies — teachers, parents of kids the same age — it felt wasteful to keep them in a folder. A few evenings of work later, ABCLearning existed.
+  </p>
+  <p>
+    The site is free. There are no login walls, no paywalled packs, no email sign-ups. You find a worksheet, you print it, your child uses it. That's the whole thing.
+  </p>
+
+  <h2>The technology behind it</h2>
+  <p>
+    Each worksheet is typeset in <strong>LaTeX</strong> — the same system academics use to write research papers — because it produces clean, precise layouts that look great when printed. The diagrams (ten frames, number bond circles, tracing guides) are drawn programmatically using <strong>TikZ</strong>, a LaTeX graphics package.
+  </p>
+  <p>
+    The website itself is a plain static site: HTML, CSS, and a little JavaScript. No frameworks, no databases, no servers to maintain. Fast to load, easy to update.
+  </p>
+
+  <h2>What's next</h2>
+  <p>
+    The collection is small right now — 34 worksheets across Maths, Phonics and Art. The plan is to keep adding, guided by what parents and teachers actually ask for. If you have a request, the <a href="suggest.html">suggestion page</a> is there for exactly that.
+  </p>
+  <p>
+    The site will always be free. It started as a gift for one child; sharing it with more doesn't cost anything.
+  </p>
+
+  <div style="margin-top: 48px; padding-top: 32px; border-top: 1px solid var(--border); display:flex; gap:16px; flex-wrap:wrap;">
+    <a href="worksheets.html" class="btn btn-primary" style="display:inline-flex;">Browse Worksheets</a>
+    <a href="suggest.html"    class="btn" style="display:inline-flex; background:var(--bg-soft); color:var(--text); border:1.5px solid var(--border);">Suggest an Activity</a>
+  </div>
+
+</div>
+
+<footer id="site-footer">
+  <div class="footer-inner">
+    <div>
+      <div class="footer-brand-name"><span class="brand-abc">ABC</span><span class="brand-learning">Learning</span></div>
+      <p class="footer-tagline">Free printable worksheets for curious kids aged 4–12.</p>
+    </div>
+    <div class="footer-col">
+      <h4>Worksheets</h4>
+      <ul>
+        <li><a href="worksheets.html">All Worksheets</a></li>
+        <li><a href="maths.html">Maths</a></li>
+        <li><a href="phonics.html">Phonics</a></li>
+        <li><a href="art.html">Art</a></li>
+      </ul>
+    </div>
+    <div class="footer-col">
+      <h4>Site</h4>
+      <ul>
+        <li><a href="about.html">About</a></li>
+        <li><a href="suggest.html">Suggest Activity</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <p>&copy; 2025 ABCLearning. Free for personal and classroom use.</p>
+    <a href="#site-nav">Back to top &uarr;</a>
+  </div>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
