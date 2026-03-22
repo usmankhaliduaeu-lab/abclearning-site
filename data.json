@@ -6,9 +6,97 @@
       "skill": "Maths",
       "topic": "Make 10",
       "ageMin": 4,
-      "ageMax": 6,
+      "ageMax": 7,
       "pdf": "pdfs/make-10-activity-9.pdf",
       "thumbnail": "thumbnails/make-10-activity-9.png",
+      "tags": ["make 10", "addition", "ten frames"]
+    },
+    {
+      "id": "make-10-activity-11",
+      "title": "Make 10 — Starting from 11",
+      "skill": "Maths",
+      "topic": "Make 10",
+      "ageMin": 4,
+      "ageMax": 7,
+      "pdf": "pdfs/make-10-activity-11.pdf",
+      "thumbnail": "thumbnails/make-10-activity-11.png",
+      "tags": ["make 10", "addition", "ten frames"]
+    },
+    {
+      "id": "make-10-activity-12",
+      "title": "Make 10 — Starting from 12",
+      "skill": "Maths",
+      "topic": "Make 10",
+      "ageMin": 4,
+      "ageMax": 7,
+      "pdf": "pdfs/make-10-activity-12.pdf",
+      "thumbnail": "thumbnails/make-10-activity-12.png",
+      "tags": ["make 10", "addition", "ten frames"]
+    },
+    {
+      "id": "make-10-activity-13",
+      "title": "Make 10 — Starting from 13",
+      "skill": "Maths",
+      "topic": "Make 10",
+      "ageMin": 4,
+      "ageMax": 7,
+      "pdf": "pdfs/make-10-activity-13.pdf",
+      "thumbnail": "thumbnails/make-10-activity-13.png",
+      "tags": ["make 10", "addition", "ten frames"]
+    },
+    {
+      "id": "make-10-activity-14",
+      "title": "Make 10 — Starting from 14",
+      "skill": "Maths",
+      "topic": "Make 10",
+      "ageMin": 4,
+      "ageMax": 7,
+      "pdf": "pdfs/make-10-activity-14.pdf",
+      "thumbnail": "thumbnails/make-10-activity-14.png",
+      "tags": ["make 10", "addition", "ten frames"]
+    },
+    {
+      "id": "make-10-activity-15",
+      "title": "Make 10 — Starting from 15",
+      "skill": "Maths",
+      "topic": "Make 10",
+      "ageMin": 5,
+      "ageMax": 7,
+      "pdf": "pdfs/make-10-activity-15.pdf",
+      "thumbnail": "thumbnails/make-10-activity-15.png",
+      "tags": ["make 10", "addition", "ten frames"]
+    },
+    {
+      "id": "make-10-activity-16",
+      "title": "Make 10 — Starting from 16",
+      "skill": "Maths",
+      "topic": "Make 10",
+      "ageMin": 5,
+      "ageMax": 7,
+      "pdf": "pdfs/make-10-activity-16.pdf",
+      "thumbnail": "thumbnails/make-10-activity-16.png",
+      "tags": ["make 10", "addition", "ten frames"]
+    },
+    {
+      "id": "make-10-activity-17",
+      "title": "Make 10 — Starting from 17",
+      "skill": "Maths",
+      "topic": "Make 10",
+      "ageMin": 5,
+      "ageMax": 7,
+      "pdf": "pdfs/make-10-activity-17.pdf",
+      "thumbnail": "thumbnails/make-10-activity-17.png",
+      "tags": ["make 10", "addition", "ten frames"]
+    },
+    {
+      "id": "make-10-activity-18",
+      "title": "Make 10 — Starting from 18",
+      "skill": "Maths",
+      "topic": "Make 10",
+      "ageMin": 5,
+      "ageMax": 7,
+      "pdf": "pdfs/make-10-activity-18.pdf",
+      "thumbnail": "thumbnails/make-10-activity-18.png",
       "tags": ["make 10", "addition", "ten frames"]
     },
     {
@@ -243,6 +331,83 @@
       "tags": ["ten frames", "counting", "number sense"]
     },
     {
+      "id": "part-whole-model-activity-1",
+      "title": "Part-Whole Model — Activity 1",
+      "skill": "Maths",
+      "topic": "Part-Whole Model",
+      "ageMin": 5,
+      "ageMax": 7,
+      "pdf": "pdfs/part-whole-model-activity-1.pdf",
+      "thumbnail": "thumbnails/part-whole-model-activity-1.png",
+      "tags": ["part-whole", "addition", "number bonds", "decomposing"]
+    },
+    {
+      "id": "part-whole-model-activity-2",
+      "title": "Part-Whole Model — Activity 2",
+      "skill": "Maths",
+      "topic": "Part-Whole Model",
+      "ageMin": 5,
+      "ageMax": 7,
+      "pdf": "pdfs/part-whole-model-activity-2.pdf",
+      "thumbnail": "thumbnails/part-whole-model-activity-2.png",
+      "tags": ["part-whole", "addition", "number bonds", "decomposing"]
+    },
+    {
+      "id": "place-value-tens-ones",
+      "title": "Place Value — Tens and Ones",
+      "skill": "Maths",
+      "topic": "Place Value",
+      "ageMin": 5,
+      "ageMax": 7,
+      "pdf": "pdfs/place-value-tens-ones.pdf",
+      "thumbnail": "thumbnails/place-value-tens-ones.png",
+      "tags": ["place value", "tens", "ones", "two-digit numbers"]
+    },
+    {
+      "id": "adding-with-pictures",
+      "title": "Adding with Pictures",
+      "skill": "Maths",
+      "topic": "Addition",
+      "ageMin": 4,
+      "ageMax": 6,
+      "pdf": "pdfs/adding-with-pictures.pdf",
+      "thumbnail": "thumbnails/adding-with-pictures.png",
+      "tags": ["addition", "pictures", "counting on", "number sense"]
+    },
+    {
+      "id": "addition-up-to-20",
+      "title": "Addition Up to 20",
+      "skill": "Maths",
+      "topic": "Addition",
+      "ageMin": 5,
+      "ageMax": 7,
+      "pdf": "pdfs/addition-up-to-20.pdf",
+      "thumbnail": "thumbnails/addition-up-to-20.png",
+      "tags": ["addition", "up to 20", "number bonds", "mental maths"]
+    },
+    {
+      "id": "subtraction-with-pictures",
+      "title": "Subtraction with Pictures",
+      "skill": "Maths",
+      "topic": "Subtraction",
+      "ageMin": 4,
+      "ageMax": 6,
+      "pdf": "pdfs/subtraction-with-pictures.pdf",
+      "thumbnail": "thumbnails/subtraction-with-pictures.png",
+      "tags": ["subtraction", "pictures", "taking away", "number sense"]
+    },
+    {
+      "id": "counting-11-to-20",
+      "title": "Counting 11 to 20",
+      "skill": "Maths",
+      "topic": "Counting",
+      "ageMin": 4,
+      "ageMax": 6,
+      "pdf": "pdfs/counting-11-to-20.pdf",
+      "thumbnail": "thumbnails/counting-11-to-20.png",
+      "tags": ["counting", "numbers to 20", "teen numbers", "number sense"]
+    },
+    {
       "id": "more-less-same",
       "title": "More, Less and Same",
       "skill": "Maths",
@@ -331,6 +496,61 @@
       "tags": ["digraphs", "wh", "tracing", "phonics", "word tracing"]
     },
     {
+      "id": "tracing-ck",
+      "title": "Digraph Tracing — CK Words",
+      "skill": "Phonics",
+      "topic": "Digraphs",
+      "ageMin": 4,
+      "ageMax": 6,
+      "pdf": "pdfs/tracing-ck.pdf",
+      "thumbnail": "thumbnails/tracing-ck.png",
+      "tags": ["digraphs", "ck", "tracing", "phonics", "word tracing"]
+    },
+    {
+      "id": "tracing-ng",
+      "title": "Digraph Tracing — NG Words",
+      "skill": "Phonics",
+      "topic": "Digraphs",
+      "ageMin": 4,
+      "ageMax": 6,
+      "pdf": "pdfs/tracing-ng.pdf",
+      "thumbnail": "thumbnails/tracing-ng.png",
+      "tags": ["digraphs", "ng", "tracing", "phonics", "word tracing"]
+    },
+    {
+      "id": "tracing-nk",
+      "title": "Digraph Tracing — NK Words",
+      "skill": "Phonics",
+      "topic": "Digraphs",
+      "ageMin": 4,
+      "ageMax": 6,
+      "pdf": "pdfs/tracing-nk.pdf",
+      "thumbnail": "thumbnails/tracing-nk.png",
+      "tags": ["digraphs", "nk", "tracing", "phonics", "word tracing"]
+    },
+    {
+      "id": "tracing-ph",
+      "title": "Digraph Tracing — PH Words",
+      "skill": "Phonics",
+      "topic": "Digraphs",
+      "ageMin": 4,
+      "ageMax": 6,
+      "pdf": "pdfs/tracing-ph.pdf",
+      "thumbnail": "thumbnails/tracing-ph.png",
+      "tags": ["digraphs", "ph", "tracing", "phonics", "word tracing"]
+    },
+    {
+      "id": "tracing-qu",
+      "title": "Digraph Tracing — QU Words",
+      "skill": "Phonics",
+      "topic": "Digraphs",
+      "ageMin": 4,
+      "ageMax": 6,
+      "pdf": "pdfs/tracing-qu.pdf",
+      "thumbnail": "thumbnails/tracing-qu.png",
+      "tags": ["digraphs", "qu", "tracing", "phonics", "word tracing"]
+    },
+    {
       "id": "tracing-cvc-words",
       "title": "CVC Word Tracing — cat, dog, sun, hat, pin",
       "skill": "Phonics",
@@ -340,6 +560,39 @@
       "pdf": "pdfs/tracing-cvc-words.pdf",
       "thumbnail": "thumbnails/tracing-cvc-words.png",
       "tags": ["CVC", "tracing", "phonics", "sounding out", "word tracing"]
+    },
+    {
+      "id": "word-family-at",
+      "title": "Word Family — -at Words",
+      "skill": "Phonics",
+      "topic": "Word Families",
+      "ageMin": 4,
+      "ageMax": 6,
+      "pdf": "pdfs/word-family-at.pdf",
+      "thumbnail": "thumbnails/word-family-at.png",
+      "tags": ["word families", "-at", "rhyming", "phonics", "CVC"]
+    },
+    {
+      "id": "word-family-ig",
+      "title": "Word Family — -ig Words",
+      "skill": "Phonics",
+      "topic": "Word Families",
+      "ageMin": 4,
+      "ageMax": 6,
+      "pdf": "pdfs/word-family-ig.pdf",
+      "thumbnail": "thumbnails/word-family-ig.png",
+      "tags": ["word families", "-ig", "rhyming", "phonics", "CVC"]
+    },
+    {
+      "id": "word-family-og",
+      "title": "Word Family — -og Words",
+      "skill": "Phonics",
+      "topic": "Word Families",
+      "ageMin": 4,
+      "ageMax": 6,
+      "pdf": "pdfs/word-family-og.pdf",
+      "thumbnail": "thumbnails/word-family-og.png",
+      "tags": ["word families", "-og", "rhyming", "phonics", "CVC"]
     },
     {
       "id": "beginning-sounds",
@@ -395,6 +648,39 @@
       "pdf": "pdfs/coloring-pattern.pdf",
       "thumbnail": "thumbnails/coloring-pattern.png",
       "tags": ["patterns", "shapes", "art", "colouring", "sequencing"]
+    },
+    {
+      "id": "coloring-unicorn",
+      "title": "Colour the Unicorn!",
+      "skill": "Art",
+      "topic": "Colouring",
+      "ageMin": 3,
+      "ageMax": 8,
+      "pdf": "pdfs/coloring-unicorn.pdf",
+      "thumbnail": "thumbnails/coloring-unicorn.png",
+      "tags": ["colouring", "unicorn", "art", "fine motor"]
+    },
+    {
+      "id": "coloring-jungle-animals",
+      "title": "Colour the Jungle Animals!",
+      "skill": "Art",
+      "topic": "Colouring",
+      "ageMin": 3,
+      "ageMax": 8,
+      "pdf": "pdfs/coloring-jungle-animals.pdf",
+      "thumbnail": "thumbnails/coloring-jungle-animals.png",
+      "tags": ["colouring", "jungle", "animals", "elephant", "giraffe", "art", "fine motor"]
+    },
+    {
+      "id": "coloring-abcd",
+      "title": "Colour the A B C D!",
+      "skill": "Art",
+      "topic": "Colouring",
+      "ageMin": 3,
+      "ageMax": 6,
+      "pdf": "pdfs/coloring-abcd.pdf",
+      "thumbnail": "thumbnails/coloring-abcd.png",
+      "tags": ["colouring", "alphabet", "ABCD", "letters", "art", "fine motor"]
     }
   ]
 }
