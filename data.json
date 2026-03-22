@@ -12,6 +12,50 @@
       "tags": ["make 10", "addition", "ten frames"]
     },
     {
+      "id": "number-bonds-5",
+      "title": "Number Bonds to 5",
+      "skill": "Maths",
+      "topic": "Number Bonds",
+      "ageMin": 4,
+      "ageMax": 5,
+      "pdf": "pdfs/number-bonds-5.pdf",
+      "thumbnail": "thumbnails/number-bonds-5.png",
+      "tags": ["number bonds", "addition", "decomposing"]
+    },
+    {
+      "id": "number-bonds-6",
+      "title": "Number Bonds to 6",
+      "skill": "Maths",
+      "topic": "Number Bonds",
+      "ageMin": 4,
+      "ageMax": 5,
+      "pdf": "pdfs/number-bonds-6.pdf",
+      "thumbnail": "thumbnails/number-bonds-6.png",
+      "tags": ["number bonds", "addition", "decomposing"]
+    },
+    {
+      "id": "number-bonds-7",
+      "title": "Number Bonds to 7",
+      "skill": "Maths",
+      "topic": "Number Bonds",
+      "ageMin": 4,
+      "ageMax": 6,
+      "pdf": "pdfs/number-bonds-7.pdf",
+      "thumbnail": "thumbnails/number-bonds-7.png",
+      "tags": ["number bonds", "addition", "decomposing"]
+    },
+    {
+      "id": "number-bonds-8",
+      "title": "Number Bonds to 8",
+      "skill": "Maths",
+      "topic": "Number Bonds",
+      "ageMin": 4,
+      "ageMax": 6,
+      "pdf": "pdfs/number-bonds-8.pdf",
+      "thumbnail": "thumbnails/number-bonds-8.png",
+      "tags": ["number bonds", "addition", "decomposing"]
+    },
+    {
       "id": "number-bonds-9",
       "title": "Number Bonds to 9",
       "skill": "Maths",
@@ -274,6 +318,39 @@
       "pdf": "pdfs/tracing-th.pdf",
       "thumbnail": "thumbnails/tracing-th.png",
       "tags": ["digraphs", "th", "tracing", "phonics", "word tracing"]
+    },
+    {
+      "id": "tracing-wh",
+      "title": "Digraph Tracing — WH Words",
+      "skill": "Phonics",
+      "topic": "Digraphs",
+      "ageMin": 4,
+      "ageMax": 6,
+      "pdf": "pdfs/tracing-wh.pdf",
+      "thumbnail": "thumbnails/tracing-wh.png",
+      "tags": ["digraphs", "wh", "tracing", "phonics", "word tracing"]
+    },
+    {
+      "id": "tracing-cvc-words",
+      "title": "CVC Word Tracing — cat, dog, sun, hat, pin",
+      "skill": "Phonics",
+      "topic": "CVC Words",
+      "ageMin": 4,
+      "ageMax": 6,
+      "pdf": "pdfs/tracing-cvc-words.pdf",
+      "thumbnail": "thumbnails/tracing-cvc-words.png",
+      "tags": ["CVC", "tracing", "phonics", "sounding out", "word tracing"]
+    },
+    {
+      "id": "beginning-sounds",
+      "title": "Beginning Sounds — Match Picture to Letter",
+      "skill": "Phonics",
+      "topic": "Beginning Sounds",
+      "ageMin": 4,
+      "ageMax": 6,
+      "pdf": "pdfs/beginning-sounds.pdf",
+      "thumbnail": "thumbnails/beginning-sounds.png",
+      "tags": ["beginning sounds", "matching", "phonics", "letters", "initial sounds"]
     },
     {
       "id": "hearts-coloring-page",
