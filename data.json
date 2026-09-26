@@ -779,6 +779,210 @@
       ]
     },
     {
+      "id": "long-multiplication-3x3",
+      "title": "3-Digit × 3-Digit Long Multiplication",
+      "skill": "Maths",
+      "topic": "Long Multiplication · Mild, Spicy, Hot",
+      "ageMin": 9,
+      "ageMax": 11,
+      "pdf": "pdfs/long-multiplication-3x3.pdf",
+      "answers": "pdfs/long-multiplication-3x3-answers.pdf",
+      "thumbnail": "thumbnails/long-multiplication-3x3.png",
+      "tags": [
+        "multiplication",
+        "long multiplication",
+        "3-digit",
+        "year 5",
+        "year 6",
+        "mild spicy hot",
+        "answer key"
+      ]
+    },
+    {
+      "id": "division-4-digit-by-2-digit",
+      "title": "4-Digit ÷ 2-Digit Division",
+      "skill": "Maths",
+      "topic": "Division · Mild, Spicy, Hot",
+      "ageMin": 9,
+      "ageMax": 11,
+      "pdf": "pdfs/division-4-digit-by-2-digit.pdf",
+      "answers": "pdfs/division-4-digit-by-2-digit-answers.pdf",
+      "thumbnail": "thumbnails/division-4-digit-by-2-digit.png",
+      "tags": [
+        "division",
+        "bus stop",
+        "remainders",
+        "year 5",
+        "year 6",
+        "mild spicy hot",
+        "answer key"
+      ]
+    },
+    {
+      "id": "remainders-in-context",
+      "title": "Remainders in Context",
+      "skill": "Maths",
+      "topic": "Division · Mild, Spicy, Hot",
+      "ageMin": 9,
+      "ageMax": 11,
+      "pdf": "pdfs/remainders-in-context.pdf",
+      "answers": "pdfs/remainders-in-context-answers.pdf",
+      "thumbnail": "thumbnails/remainders-in-context.png",
+      "tags": [
+        "division",
+        "remainders",
+        "word problems",
+        "rounding",
+        "year 5",
+        "year 6",
+        "mild spicy hot",
+        "answer key"
+      ]
+    },
+    {
+      "id": "area-of-compound-shapes",
+      "title": "Area of Compound Shapes",
+      "skill": "Maths",
+      "topic": "Area · Mild, Spicy, Hot",
+      "ageMin": 9,
+      "ageMax": 11,
+      "pdf": "pdfs/area-of-compound-shapes.pdf",
+      "answers": "pdfs/area-of-compound-shapes-answers.pdf",
+      "thumbnail": "thumbnails/area-of-compound-shapes.png",
+      "tags": [
+        "area",
+        "compound shapes",
+        "l-shapes",
+        "year 5",
+        "year 6",
+        "mild spicy hot",
+        "answer key"
+      ]
+    },
+    {
+      "id": "perimeter-and-area",
+      "title": "Perimeter and Area of Rectangles",
+      "skill": "Maths",
+      "topic": "Perimeter & Area · Mild, Spicy, Hot",
+      "ageMin": 8,
+      "ageMax": 11,
+      "pdf": "pdfs/perimeter-and-area.pdf",
+      "answers": "pdfs/perimeter-and-area-answers.pdf",
+      "thumbnail": "thumbnails/perimeter-and-area.png",
+      "tags": [
+        "perimeter",
+        "area",
+        "rectangles",
+        "year 4",
+        "year 5",
+        "year 6",
+        "mild spicy hot",
+        "answer key"
+      ]
+    },
+    {
+      "id": "long-multiplication-5x2",
+      "title": "5-Digit × 2-Digit Long Multiplication",
+      "skill": "Maths",
+      "topic": "Long Multiplication · Mild, Spicy, Hot",
+      "ageMin": 9,
+      "ageMax": 11,
+      "pdf": "pdfs/long-multiplication-5x2.pdf",
+      "answers": "pdfs/long-multiplication-5x2-answers.pdf",
+      "thumbnail": "thumbnails/long-multiplication-5x2.png",
+      "tags": [
+        "multiplication",
+        "long multiplication",
+        "missing digits",
+        "year 6",
+        "mild spicy hot",
+        "answer key"
+      ]
+    },
+    {
+      "id": "long-division-2-digit",
+      "title": "Long Division by 2-Digit Numbers",
+      "skill": "Maths",
+      "topic": "Division · Mild, Spicy, Hot",
+      "ageMin": 9,
+      "ageMax": 11,
+      "pdf": "pdfs/long-division-2-digit.pdf",
+      "answers": "pdfs/long-division-2-digit-answers.pdf",
+      "thumbnail": "thumbnails/long-division-2-digit.png",
+      "tags": [
+        "division",
+        "long division",
+        "remainders",
+        "decimals",
+        "year 6",
+        "mild spicy hot",
+        "answer key"
+      ]
+    },
+    {
+      "id": "compound-area-by-subtraction",
+      "title": "Compound Area by Subtraction",
+      "skill": "Maths",
+      "topic": "Area · Mild, Spicy, Hot",
+      "ageMin": 9,
+      "ageMax": 11,
+      "pdf": "pdfs/compound-area-by-subtraction.pdf",
+      "answers": "pdfs/compound-area-by-subtraction-answers.pdf",
+      "thumbnail": "thumbnails/compound-area-by-subtraction.png",
+      "tags": [
+        "area",
+        "compound shapes",
+        "subtraction",
+        "year 5",
+        "year 6",
+        "mild spicy hot",
+        "answer key"
+      ]
+    },
+    {
+      "id": "factors-multiples-primes",
+      "title": "Factors, Multiples and Primes",
+      "skill": "Maths",
+      "topic": "Number Properties · Mild, Spicy, Hot",
+      "ageMin": 9,
+      "ageMax": 11,
+      "pdf": "pdfs/factors-multiples-primes.pdf",
+      "answers": "pdfs/factors-multiples-primes-answers.pdf",
+      "thumbnail": "thumbnails/factors-multiples-primes.png",
+      "tags": [
+        "factors",
+        "multiples",
+        "prime numbers",
+        "square numbers",
+        "year 5",
+        "year 6",
+        "mild spicy hot",
+        "answer key"
+      ]
+    },
+    {
+      "id": "spot-the-mistake",
+      "title": "Spot the Mistake (Be the Marker)",
+      "skill": "Maths",
+      "topic": "Reasoning · Mild, Spicy, Hot",
+      "ageMin": 9,
+      "ageMax": 11,
+      "pdf": "pdfs/spot-the-mistake.pdf",
+      "answers": "pdfs/spot-the-mistake-answers.pdf",
+      "thumbnail": "thumbnails/spot-the-mistake.png",
+      "tags": [
+        "reasoning",
+        "error analysis",
+        "multiplication",
+        "division",
+        "area",
+        "year 5",
+        "year 6",
+        "mild spicy hot",
+        "answer key"
+      ]
+    },
+    {
       "id": "tracing-ch",
       "title": "Digraph Tracing — CH Words",
       "skill": "Phonics",

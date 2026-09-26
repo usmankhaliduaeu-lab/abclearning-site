@@ -71,7 +71,8 @@ def main():
     THUMB_DIR.mkdir(exist_ok=True)
     gs = find_gs()
 
-    pdfs = sorted(PDF_DIR.glob("*.pdf"))
+    # Answer keys are linked from their worksheet's card and need no thumbnail
+    pdfs = sorted(p for p in PDF_DIR.glob("*.pdf") if not p.stem.endswith("-answers"))
     if not pdfs:
         print(f"No PDFs found in {PDF_DIR}")
         return

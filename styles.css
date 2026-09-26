@@ -596,6 +596,18 @@ ul { list-style: none; }
 }
 .card-print-btn:hover { background: var(--primary); color: #fff; }
 
+/* Answer key link (only on sheets that have one) */
+.card-answers-link {
+  margin-top: 6px;
+  text-align: center;
+  font-size: .78rem;
+  font-weight: 600;
+  color: var(--text-muted);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+.card-answers-link:hover { color: var(--primary); }
+
 /* No results */
 .no-results {
   grid-column: 1 / -1;

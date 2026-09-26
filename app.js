@@ -28,16 +28,18 @@ document.addEventListener('DOMContentLoaded', () => {
     if (a.getAttribute('href') === path) a.classList.add('active');
   });
 
-  // Load worksheet data if any grid exists on this page
+  // Load worksheet data if any grid or live count exists on this page
   const grid         = document.getElementById('card-grid');
   const featuredGrid = document.getElementById('featured-grid');
+  const hasCounts    = document.querySelector('[data-count]');
 
-  if (grid || featuredGrid) {
+  if (grid || featuredGrid || hasCounts) {
     // Resolve data.json path — works from any page at site root
     fetch('data.json')
       .then(r => r.json())
       .then(data => {
         state.worksheets = data.worksheets;
+        fillCounts();
 
         if (grid) {
           // Pre-filter by skill if the grid has data-skill set (category pages)
@@ -99,6 +101,18 @@ function matchesFilters(ws) {
     ageOk = ws.ageMin <= (n + 1) && ws.ageMax >= n;
   }
   return skillOk && ageOk;
+}
+
+// ── Live counts ────────────────────────────────────────────────
+// <span data-count="all"> or data-count="Maths" is replaced with the
+// current number of worksheets, so page text never goes out of date.
+function fillCounts() {
+  document.querySelectorAll('[data-count]').forEach(el => {
+    const skill = el.dataset.count;
+    el.textContent = skill === 'all'
+      ? state.worksheets.length
+      : state.worksheets.filter(ws => ws.skill === skill).length;
+  });
 }
 
 // ── Full grid render ────────────────────────────────────────────
@@ -168,7 +182,11 @@ function cardHTML(ws) {
             onclick="openPdf('${safePdf}')"
             aria-label="Print ${esc(ws.title)}">
       &#128438; Print / Download
-    </button>
+    </button>${ws.answers ? `
+    <a class="card-answers-link"
+       href="${esc(encodeURI(ws.answers))}"
+       target="_blank" rel="noopener noreferrer"
+       aria-label="Answer key for ${esc(ws.title)}">&#10003; Answer key</a>` : ''}
   </div>
 </article>`;
 }
